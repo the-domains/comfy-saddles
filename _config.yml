@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.8454729982186109
 name: Comfy Saddles
+navigation:
+  - name: abitibi & co and Norquay Limited Edition Canoes
+    id: 6e0a7225-7eac-4a7c-96ee-4a4f5522d345
+    type: content
 title: Comfort works both ways
 description: Ergonomic Saddles for horse AND rider
