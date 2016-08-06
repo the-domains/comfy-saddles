@@ -1,4 +1,3 @@
-layout_spectrum: 0.8454729982186109
 typography_spectrum: 0.6892107138410211
 color:
   brandStrength: 0.6705882113892585
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8454729982186109
 name: Comfy Saddles
 title: Comfort works both ways
+description: Ergonomic Saddles for horse AND rider
